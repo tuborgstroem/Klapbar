@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Klapbar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Klapbar_jar</output-path>
+    <root id="archive" name="Klapbar.jar">
+      <element id="module-output" name="Klapbar" />
+    </root>
+  </artifact>
+</component>
